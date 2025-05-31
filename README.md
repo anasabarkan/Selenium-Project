@@ -72,7 +72,8 @@ pytest --html=report.html
 - Le test est sensible au **chargement des iframes Stripe** → des `wait()` et des `send_keys()` lents sont utilisés.
 
 ## 📸 Screenshots
-
+[Screenshot Stripe](images/stripe_after_submit.png)
+[payment](images/verifaction.png.png)
 Le test prend automatiquement une capture d'écran `stripe_after_submit.png` après la soumission du formulaire Stripe pour aider au débogage.
 
 ## 🧑‍💻 Auteur
