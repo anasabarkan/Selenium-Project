@@ -74,6 +74,8 @@ pytest --html=report.html
 ## 📸 Screenshots
 [Screenshot Stripe](images/stripe_after_submit.png)
 [payment](images/verifaction.png.png)
+[home_page :weathershopper.pythonanywhere.com](images/home_page.png)
+[proudit_pages: ajouter produit au panier ](images/Produit.png)
 Le test prend automatiquement une capture d'écran `stripe_after_submit.png` après la soumission du formulaire Stripe pour aider au débogage.
 
 ## 🧑‍💻 Auteur
