@@ -1,18 +1,15 @@
-# Fichiers de test
-report.html
-*.png
-stripe_after_submit.png
-
-# Cache Python
+# ✅ Cache Python
 __pycache__/
 *.py[cod]
 *.log
 
-# Dossiers temporaires
+# ✅ Fichiers d'environnement et archives
 *.zip
 .env
-.vscode/
 
-# Dossiers de test ou debug
+# ✅ Fichiers d'éditeur (non pertinents pour le code)
+.vscode/
 .idea/
+
+# ✅ Dossiers de debug
 .testoutput/
