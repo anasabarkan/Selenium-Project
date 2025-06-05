@@ -93,11 +93,11 @@ The HTML report will be generated at `reports/report.html` and can be opened in 
 
 The test uses Stripe's test payment credentials:
 
-* **Email**: test@example.com
-* **Card Number**: 4242424242424242
+* **Email**: anasabarkan251@gmail.com
+* **Card Number**: 5683 9200 8910 8030 318
 * **Expiry**: 12/34
-* **CVC**: 123
-* **ZIP Code**: 12345
+* **CVC**: 171
+* **ZIP Code**: 26000
 
 ## Page Object Model
 
