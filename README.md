@@ -124,7 +124,7 @@ When running successfully, you should see output similar to:
 🌡️ Detected temperature: 43°C
 Searching for products with keywords: ['Aloe', 'Almond']
 Found 6 matching products
-🛒 Added to cart: Aloe Vera Fresh – 150 Rs
-🛒 Added to cart: Almond Moist – 135 Rs
-✅ Cart verified: 2 items, total = 285 Rs
+🛒 Added to cart: Vassily Brilliant SPF-30 – 116 Rs
+🛒 Added to cart: Vishy La Shield Sunscreen spf-30 – 195 Rs
+✅ Cart verified: 2 items, total = 311 Rs
 ✅ Test completed successfully – payment processed
